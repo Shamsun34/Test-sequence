@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Allura&family=Josefin+Sans:wght@300&display=swap');
+*{
+    margin: 0px;
+    padding:0px;
+    font-family: 'Nunito', sans-serif;
+     background: rgb(206, 145, 33);
+    font-size: 21px;
+}
+
+ header{
+    font-family: 'Allura', cursive;
+    font-size: 55px;
+    -webkit-text-stroke: 2.4px rgb(247, 247, 247);
+    position: absolute;
+    text-align: center;
+    width: 76%;
+    left: 12%;
+    top: 2rem;
+}
+
+.navbar{
+    text-align: center;
+    margin-top: 200px;
+}
